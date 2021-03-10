@@ -1,0 +1,58 @@
+
+*{
+  margin: 0px;
+    padding: 0px;   
+}
+body
+{
+    font-size: 18px;
+    background-image: repeating-linear-gradient(rgba(0,0,0,0.60),rgba(0,0,0,0.60)),url(images/image7.jpg);
+}
+.head
+{
+    width: 10.5%;
+    margin: 50px auto 0px;
+    color: black;
+    background: saddlebrown;
+   text-align: center;
+    border: 2px solid ;
+    border-radius: 5px 5px 5px 5px;
+    padding: 10px;
+    font-size: 20px;
+}
+form
+{
+    width: 30%;
+    height: 70%;
+    margin: 25px auto;
+    text-align: center;
+    border: 2px solid;
+     background-color: sandybrown;
+    border-radius: 20px 20px  20px 20px ;
+    padding: 50px;
+}
+
+.input
+{
+     width: 90%;
+    height:1%;
+    border-radius: 0px 0px 10px 10px;
+	margin: 5px 0px 5px 0px;
+}
+.input-label
+{
+     border: 2px solid ;
+   border-radius: 5px 5px 5px 5px;
+  /*  background-color: saddlebrown;*/
+    font-size: 19px;
+   
+}
+.btn
+{
+    	padding: 8px;
+	font-size: 19px;
+	color: white;
+	background-color: saddlebrown;
+	border: none;
+	border-radius: 5px;
+}
